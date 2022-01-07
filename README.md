@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Venomally
+- 👋 Hi, I’m Amer Čengić
 - 👀 I’m interested in Front-end web development, 3d Modeling
 - 🌱 I’m currently learning HTML and CSS 
 - 💞️ I’m looking to collaborate on any projects 
