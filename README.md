@@ -1,10 +1,10 @@
 # Hi there, I'm Amer👋 
 
-## Im a student how is learning web Development!!
+## I'm a student who is learning web Development!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creator 🤝
-- 🥅 2022 Goals: To become Front end Developer 💪
+- 🥅 2025 Goals: To become a software developer 💪
 - ⚡ Other softwares: I use 3DS max and AutoCad. 
 - 🐝 I love bees. bee
 
